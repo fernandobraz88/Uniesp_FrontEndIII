@@ -17,7 +17,7 @@ Exibir renderizado a mensagem: ***"Hello World"***
 - trabalhando com propriedades de componentes
 
 ### Exercicio:
-Criar os componentes ***Adicao***, ***Subtracao***, ***Multiplicacao*** e ***Divisao*** repassar os operadores como parametros e renderizar os respectivos resultados
+Criar os componentes ***Adicao***, ***Subtracao***, ***Multiplicacao*** e ***Divisao*** repassar os operandos como parametros e renderizar os respectivos resultados
 
 ## Aula 02:
 ### Tema Abordado:
@@ -56,11 +56,13 @@ Crie um componente chamado: **HookContador**
 #### Exercicio 01:
 Crie um componente chamado: **EstouConseguindoAprenderReact**
 - Neste componente crie um operador ternário para verificar uma props chamada **estouConseguindo** (boolean)
-- Se True => <h1>Estou indo bem... </h1>
-- Se False => <h1>Preciso Estudar mais </h1>
+- Se True => `<h1>Estou indo bem... </h1>`
+- Se False => `<h1>Preciso Estudar mais </h1>`
 
 #### Exercicio 02:
 Crie um componente chamado: **Aluno** 
 - Este componente vai renderizar informaçoes sobre o aluno como *nome*,*email* e *curso*
 - Utilise a tecnica de **Destructuring** para extrair todas as propriedades de uma vez só
-- Renderize
+- Renderize o componente **Aluno** em um elemento da página
+- Para isso crie um Array com 3 alunos em objetos literais
+- Percorra esse arrau através de ***.map*** para renderizar esses 3 alunos na tela
