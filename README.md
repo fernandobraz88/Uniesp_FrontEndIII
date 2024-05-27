@@ -89,3 +89,20 @@ CSS in line
 CSS in Module
 - Crie um CSS Modularizado para um componente chamado **Campanha**
 - A mensagem e a cor de fundo devem mudar de acordo com o mes passado como prop
+
+## Aula 05:
+### Tema abordado:
+HTTP com React
+- Criando servidor http fake
+- Resgatando dados (Get)
+- Enviando dados (Post)
+
+### Exercicios:
+#### Exercicio 01:
+- Crie uma RESTful API fake que retorne uma lista de **Alunos** onde cada instancia terá *nome*, *email* e *curso*
+- Faça um *get* nessa lista de Alunos e obtenha o retorno da lista
+- Mostre o resultado em um cliente http
+
+#### Exercicio 02:
+- Crie uma pagina que retorne a lista de **Alunos** que sua API fake está retornando
+- Retorne esses dados organizados em uma tabela
