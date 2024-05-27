@@ -106,3 +106,7 @@ HTTP com React
 #### Exercicio 02:
 - Crie uma pagina que retorne a lista de **Alunos** que sua API fake está retornando
 - Retorne esses dados organizados em uma tabela
+
+## Aula 06
+### Tema abordado:
+- React Router dom
