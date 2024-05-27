@@ -61,7 +61,7 @@ Crie um componente chamado: **EstouConseguindoAprenderReact**
 
 #### Exercicio 02:
 Crie um componente chamado: **Aluno** 
-- Este componente vai renderizar informaçoes sobre o aluno como *nome*,*email* e *curso*
+- Este componente vai renderizar informaçoes sobre o aluno como *nome*,*email*, *curso* e *media*
 - Utilise a tecnica de **Destructuring** para extrair todas as propriedades de uma vez só
 - Renderize o componente **Aluno** em um elemento da página
 - Para isso crie um Array com 3 alunos em objetos literais
