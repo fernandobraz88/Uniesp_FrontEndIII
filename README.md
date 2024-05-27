@@ -1,5 +1,6 @@
 # Uniesp: Front end III
 Repositório dedicado a disciplina front end III da Uniesp, no qual foi utilizado a Biblioteca **React** 
+professor: @kelsonvictr
 
 ## Aula 00:
 ### Tema abordado:
