@@ -66,3 +66,26 @@ Crie um componente chamado: **Aluno**
 - Renderize o componente **Aluno** em um elemento da página
 - Para isso crie um Array com 3 alunos em objetos literais
 - Percorra esse arrau através de ***.map*** para renderizar esses 3 alunos na tela
+
+## Aula 04:
+### Tema Abordado:
+- CSS com React
+
+### Exercicios:
+#### Exercicio 01:
+Crie um estilo **Global** que contenha:
+- Cor de fundo do corpo #d77d7d
+- Tamanho da fonte padrão 50px
+- Todas as imagens devem ter uma borda sólida de 20px e com #ccc
+
+#### Exercicio 02:
+CSS in line
+- Cor do texto #f00
+- Cor de Fundo #00f
+- Largura 200px
+- Alinhamento centralizado
+
+#### Exercicio 03:
+CSS in Module
+- Crie um CSS Modularizado para um componente chamado **Campanha**
+- A mensagem e a cor de fundo devem mudar de acordo com o mes passado como prop
