@@ -110,3 +110,4 @@ HTTP com React
 ## Aula 06
 ### Tema abordado:
 - React Router dom
+- Axios

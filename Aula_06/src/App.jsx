@@ -6,6 +6,8 @@ import Afaculdade from './pages/Afaculdade'
 import Noticias from './pages/Noticias'
 import DpoLgpd from './pages/DpoLgpd'
 import NavBar from './components/NavBar'
+import VisualizaNoticia from './pages/VisualizaNoticia'
+import NoticiasAxios from './pages/NoticiasAxios'
 
 const App = () => {
   return (
@@ -21,7 +23,8 @@ const App = () => {
           <Route path='/' element= {<Inicial/>} />
           <Route path='/a-faculdade' element={<Afaculdade/>} />
           <Route path='/dpo-lgpd' element={<DpoLgpd/>} />
-          <Route path='/noticias' element={<Noticias />} />
+          <Route path='/noticias' element={<NoticiasAxios />} />
+          <Route path='/visualiza-noticia/:id' element={<VisualizaNoticia />} />
         </Routes>
       </BrowserRouter>
     </>
