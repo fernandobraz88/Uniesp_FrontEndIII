@@ -10,6 +10,7 @@ const NavBar = () => {
         <Link to='/dpo-lgpd'>Dpo Lgpd</Link>
         <Link to='/a-faculdade'>A Faculdade</Link>
         <Link to='/noticias'>Notícias</Link>
+        <Link to='/admin-noticias'>Admin</Link>
     </nav>
   )
 }
